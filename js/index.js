@@ -1,5 +1,5 @@
 // task 1
-
+alert('Hello'); // Output: 'hi'
 let letter = 'aaa@bbb@ccc';
 letter = letter.split('@').join('!');
 console.log(letter); // Output: 'aaa!bbb!ccc'
